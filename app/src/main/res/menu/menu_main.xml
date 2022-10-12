@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.varsitycollege.dylan_10117211_opsc.MainActivity">
+
+    <item
+        android:id="@+id/action_findDestination"
+        android:orderInCategory="100"
+        android:title="@string/findDestination" />
+
+    <item
+        android:id="@+id/action_viewTrips"
+        android:orderInCategory="100"
+        android:title="@string/viewTrips" />
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings" />
+    <item
+        android:id="@+id/action_logout"
+        android:orderInCategory="100"
+        android:title="@string/logout" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

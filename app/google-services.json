@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "620097733384",
+    "project_id": "dylan-10117211-opsc",
+    "storage_bucket": "dylan-10117211-opsc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620097733384:android:167238b6d10085648762bd",
+        "android_client_info": {
+          "package_name": "com.varsitycollege.dylan_10117211_opsc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620097733384-f6htatqglcjg5hiajbsrc4gf3jbh80k9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEZjst4xpzaIliAvsbDOOPnPCzqI951GI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620097733384-f6htatqglcjg5hiajbsrc4gf3jbh80k9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
